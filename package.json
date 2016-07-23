@@ -1,0 +1,35 @@
+{
+  "name": "honolily.github.io",
+  "version": "1.0.0",
+  "description": "随便说说、讨论电影、分享书籍，交流思想的小空间。",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "时间松果",
+    "伊芙琳娜",
+    "拯救海的女儿",
+    "童话交流",
+    "专致于创意策划",
+    "文学创作"
+  ],
+  "author": "Honolily",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-stylus": "^0.4.0",
+    "browser-sync": "^1.9.0",
+    "grunt": "^0.4.5",
+    "gulp": "^3.8.10",
+    "gulp-cache": "^0.3.0",
+    "gulp-concat": "^2.4.3",
+    "gulp-imagemin": "^2.1.0",
+    "gulp-plumber": "^0.6.6",
+    "gulp-stylus": "^1.3.7",
+    "gulp-uglify": "^1.0.2",
+    "jeet": "^6.1.2",
+    "kouto-swiss": "^0.11.6",
+    "minimist": "^1.2.0",
+    "rupture": "^0.6.1"
+  }
+}

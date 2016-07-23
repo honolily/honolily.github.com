@@ -1,0 +1,19 @@
+{% assign m = post.date | date: "%-m" %}
+{{ post.date | date: "%-d" }}
+ -
+{% case m %}
+  {% when '1' %}january
+  {% when '2' %}february
+  {% when '3' %}march
+  {% when '4' %}april
+  {% when '5' %}may
+  {% when '6' %}june
+  {% when '7' %}july
+  {% when '8' %}august
+  {% when '9' %}september
+  {% when '10' %}october
+  {% when '11' %}nobeber
+  {% when '12' %}deceber
+{% endcase %}
+ /
+{{ post.date | date: "%Y" }}
