@@ -3,6 +3,10 @@ layout: post
 status: publish
 published: true
 title: "孩子们来自大地所有的色彩（《all the colors of the Earth》译文）"
+image: '/assets/img/load/git.jpg'
+introduction: ''
+main-class: ''
+color: '#7D669E'
 author:
   display_name: Honolily
   login: Honolily

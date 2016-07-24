@@ -3,6 +3,10 @@ layout: post
 status: publish
 published: true
 title: Mico headphones scan brainwaves to match songs to your mood微智能耳机能扫描脑电波，为你找寻符合心情的歌曲
+image: '/assets/img/load/git.jpg'
+introduction: ''
+main-class: ''
+color: '#7D669E'
 author:
   display_name: Honolily
   login: Honolily

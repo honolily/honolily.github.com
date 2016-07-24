@@ -3,9 +3,9 @@ layout: post
 status: publish
 published: true
 title: Waiting At The Window趴在窗台上
-image: '/assets/img/cursos/curso-git.jpg'
+image: '/assets/img/load/git.jpg'
 introduction: ''
-main-class: '诗词'
+main-class: ''
 color: '#7D669E'
 author:
   display_name: Honolily

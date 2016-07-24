@@ -3,6 +3,10 @@ layout: post
 status: publish
 published: true
 title: "有时你得放下&mdash;&mdash;看《what is eating Gilbert Grape》"
+image: '/assets/img/load/git.jpg'
+introduction: ''
+main-class: ''
+color: '#7D669E'
 author:
   display_name: Honolily
   login: Honolily

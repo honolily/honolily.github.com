@@ -3,6 +3,10 @@ layout: post
 status: publish
 published: true
 title: Hello Goodbye & Hello&mdash;&mdash;雅戈泰历险记
+image: '/assets/img/load/git.jpg'
+introduction: ''
+main-class: ''
+color: '#7D669E'
 author:
   display_name: Honolily
   login: Honolily

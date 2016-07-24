@@ -3,6 +3,10 @@ layout: post
 status: publish
 published: true
 title: Who was the mysterious holdout who voted against China&rsquo;s new president?何方神圣投了习近平的反对票？
+image: '/assets/img/load/git.jpg'
+introduction: ''
+main-class: ''
+color: '#7D669E'
 author:
   display_name: Honolily
   login: Honolily

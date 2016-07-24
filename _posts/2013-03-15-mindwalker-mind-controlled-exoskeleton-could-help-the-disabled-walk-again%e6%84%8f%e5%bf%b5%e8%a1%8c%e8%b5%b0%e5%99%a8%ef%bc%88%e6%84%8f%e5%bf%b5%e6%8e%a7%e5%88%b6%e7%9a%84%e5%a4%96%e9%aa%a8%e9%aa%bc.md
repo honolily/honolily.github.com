@@ -3,6 +3,10 @@ layout: post
 status: publish
 published: true
 title: Mindwalker mind-controlled exoskeleton could help the disabled walk again意念行走器（意念控制的外骨骼）帮助残疾人行走起来
+image: '/assets/img/load/git.jpg'
+introduction: ''
+main-class: ''
+color: '#7D669E'
 author:
   display_name: Honolily
   login: Honolily

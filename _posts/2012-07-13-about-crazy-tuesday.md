@@ -3,6 +3,10 @@ layout: post
 status: publish
 published: true
 title: "加入魔法飞行俱乐部，星期二一起去飞翔吧！"
+image: '/assets/img/load/git.jpg'
+introduction: ''
+main-class: ''
+color: '#7D669E'
 author:
   display_name: Honolily
   login: Honolily

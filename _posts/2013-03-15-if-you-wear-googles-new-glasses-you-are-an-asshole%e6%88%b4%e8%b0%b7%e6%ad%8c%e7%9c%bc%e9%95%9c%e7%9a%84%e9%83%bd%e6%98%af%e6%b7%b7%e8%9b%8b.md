@@ -3,6 +3,10 @@ layout: post
 status: publish
 published: true
 title: If You Wear Google&rsquo;s New Glasses You Are An Asshole戴谷歌眼镜的都是混蛋
+image: '/assets/img/load/git.jpg'
+introduction: ''
+main-class: ''
+color: '#7D669E'
 author:
   display_name: Honolily
   login: Honolily

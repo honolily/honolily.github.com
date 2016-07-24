@@ -3,6 +3,10 @@ layout: post
 status: publish
 published: true
 title: Like a Dagger to Bloggers' Hearts, Google Just Killed Google Reader谷歌砍了谷歌阅读器！博客们情何以堪？
+image: '/assets/img/load/git.jpg'
+introduction: ''
+main-class: ''
+color: '#7D669E'
 author:
   display_name: Honolily
   login: Honolily

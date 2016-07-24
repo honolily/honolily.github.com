@@ -3,6 +3,10 @@ layout: post
 status: publish
 published: true
 title: "海虾对健康的贡献知多少？（healthy seafood）"
+image: '/assets/img/load/git.jpg'
+introduction: ''
+main-class: ''
+color: '#7D669E'
 author:
   display_name: Honolily
   login: Honolily
