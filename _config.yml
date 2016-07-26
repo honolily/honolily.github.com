@@ -10,7 +10,7 @@ title: 原力引火
 email: yuanli.info@gmail.com
 description: 随便说说、讨论电影、分享书籍，交流思想的小空间。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.yuanli.info" # the base hostname & protocol for your site
+url: "https://yuanli.info" # the base hostname & protocol for your site
 twitter_username: honolily
 github_username:  honolily
 
