@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Waiting At The Window趴在窗台上
 image: '/assets/img/load/git.jpg'
-introduction: ''
+introduction: '这是英国作家A. A. Milne（艾伦&middot;亚历山大&middot;米恩）的一首儿童诗，由风小力翻译。'
 main-class: ''
 color: '#7D669E'
 author:
@@ -17,9 +17,11 @@ wordpress_id: 3191
 wordpress_url: http://www.yuanli.info/?p=3191
 date: '2016-07-18 16:44:29 +0800'
 date_gmt: '2016-07-18 08:44:29 +0800'
+main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: 
+- "诗词"
 comments: []
 ---
 这是英国作家A. A. Milne（艾伦&middot;亚历山大&middot;米恩）的一首儿童诗，由风小力翻译。

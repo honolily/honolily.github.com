@@ -7,10 +7,10 @@ layout: default
     {% for post in site.posts %}
         <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                 <span class="ribbon">
-                    <a href="{{site.url}}/category/{{post.main-class}}"><span>{{post.main-class}}</span></a>
+                    <a href="{{site.url}}/category/#{{post.main-class}}"><span>{{post.main-class}}</span></a>
                 </span>
                 <div class="box-body cursos-box-body">
-                  <a class="post-link" href="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" onclick="ga('send', 'event', 'cursos', 'click', '{{post.title}}')">
+                  <a class="post-link" title="{{ post.title }}" href="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" onclick="ga('send', 'event', 'cursos', 'click', '{{post.title}}')">
                       <div class="cursos-image" style="background-image: url({% if post.image %}{{post.image}}{% else %}{{site.url}}/assets/img/cursos/curso-git.jpg{% endif %})"></div>
                   </a>
                   <div class="cursos-container">
@@ -20,7 +20,13 @@ layout: default
                           </h2>
                       </a>
                       <a class="post-link" href="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" onclick="ga('send', 'event', 'cursos', 'click', '{{post.title}}')">
-                          <p class="description">{{ post.introduction }}</p>
+                          <p class="description">
+                            {% if post.introduction %}
+                                {{ post.introduction | strip_html | truncate:38 }}
+                            {% else %}
+                                {{ post.content | strip_html | truncate:38 }}
+                            {% endif %}
+                          </p>
                       </a>
                       <div class="tags">
                           {% for tag in post.tags %}
