@@ -12,7 +12,7 @@ By A. A. Milne	More A. A. Milne 艾倫·亞歷山大·米恩
 
 翻译：风小力
 
-[wind on the hill](/assets/img/2016/07/wind-on-the-hill.jpg)
+![wind on the hill](/assets/img/2016/07/wind-on-the-hill.jpg)
 
 艾伦·亚历山大·米恩（Alan Alexander Milne、常缩写为A. A. Milne、1882年1月18日－1956年1月31日）是一位英国作家，毕业于剑桥大学三一学院。以小熊维尼与儿童诗作而闻名于世，其儿子是小熊维尼故事核心人物克里斯多夫·罗宾·米恩。
 
