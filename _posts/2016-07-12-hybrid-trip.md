@@ -20,7 +20,7 @@ date_gmt: '2016-07-12 09:16:32 +0800'
 main-class: '短篇'
 categories:
 - "短篇"
-tags: []
+tags: "tour"
 comments: []
 ---
 [![yuanli info image](/assets/img/2016/07/images-4.jpg "images (4)")](/assets/img/2016/07/images-4.jpg)

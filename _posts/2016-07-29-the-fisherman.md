@@ -6,7 +6,7 @@ color: "#7D669E"
 introduction: "居住城市的妈妈给孩子们讲的渔夫的故事"
 main-class: "诗词"
 categories: 
-tags: [poem]
+tags: "poem"
 ---
 By Abbie Farwell Brown
 

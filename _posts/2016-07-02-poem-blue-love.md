@@ -20,7 +20,7 @@ date_gmt: '2016-07-02 07:50:34 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: "poem"
 comments: []
 ---
 [![蓝色的爱慕](/assets/img/2016/07/images-2-800x444.jpg "蓝色的爱慕")](/assets/img/2016/07/images-2.jpg)

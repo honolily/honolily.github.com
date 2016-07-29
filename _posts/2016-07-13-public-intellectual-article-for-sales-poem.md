@@ -20,7 +20,7 @@ date_gmt: '2016-07-13 03:02:53 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: "poem"
 comments: []
 ---
 一位公知写了爆炸性的文章

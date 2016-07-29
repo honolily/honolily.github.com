@@ -20,7 +20,7 @@ date_gmt: '2016-07-02 07:52:12 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: "poem"
 comments: []
 ---
 [![恋爱初生](/assets/img/2016/07/恋爱初生-800x444.jpg "恋爱初生")](/assets/img/2016/07/恋爱初生.jpg)

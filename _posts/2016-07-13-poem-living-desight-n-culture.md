@@ -20,7 +20,7 @@ date_gmt: '2016-07-13 01:29:14 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: "poem"
 comments: []
 ---
 **远古的陶器**
