@@ -20,7 +20,7 @@ date_gmt: '2016-07-02 09:56:42 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: "poem"
 comments: []
 ---
 [![天空之城](/assets/img/2016/07/天空之城-800x444.jpg "天空之城")](/assets/img/2016/07/天空之城.jpg)
