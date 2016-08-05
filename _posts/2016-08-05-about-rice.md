@@ -4,9 +4,9 @@ title: "种稻往事"
 image: "/assets/img/2016/08/rice.jpg"
 color: "#7D669E"
 introduction: "80后小稻农的故事。"
-main-class: ""
+main-class: "短篇"
 categories: 
-tags: [短篇]
+tags: [rice]
 ---
 
 
