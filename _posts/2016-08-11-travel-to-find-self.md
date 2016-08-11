@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "travel to find self"
+title: "定义自我的旅行"
 image: "/assets/img/2016/08/tour.jpg"
 color: "#7D669E"
 introduction: "你为什要去旅行？寻找自我，还是实现价值？"
