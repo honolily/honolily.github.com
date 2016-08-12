@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "宇宙那么大，得用心看看"
-image: "/assets/img/2016/08/galaxi.jpg
+image: "/assets/img/2016/08/galaxi.jpg"
 color: "#7D669E"
 introduction: "宇宙如此浩瀚，哪里才是最爱的风景。从心出发，自由自在地旅行。"
 main-class: "如心之旅"
