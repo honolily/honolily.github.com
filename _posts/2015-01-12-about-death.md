@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "死亡印象"
-image: '/assets/img/load/git.jpg'
+image: '/assets/img/2016/08/aboutdeath.jpg'
 excerpt: ''
 main-class: ''
 color: '#7D669E'

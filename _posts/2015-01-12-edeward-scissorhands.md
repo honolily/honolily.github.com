@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: "守望吧，童话&mdash;&mdash;《剪刀手爱德华》"
-image: '/assets/img/load/git.jpg'
+image: '/assets/img/2016/08/edewa.jpg'
 excerpt: ''
 main-class: ''
 color: '#7D669E'
@@ -20,7 +20,7 @@ date_gmt: '2015-01-12 08:20:05 +0800'
 main-class: '涂鸦'
 categories:
 - "涂鸦"
-tags: []
+tags: [movie]
 comments: []
 ---
 公主与王子从此各自幸福快乐地遥远地守望着生活了下去。
