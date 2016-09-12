@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "人树"
-image: "/assets/img/09/tree.jpg"
+image: /assets/img/2016/09/tree.jpg"
 color: "#7D669E"
 introduction: "世界在春天里繁花盛开，作为垦荒的第一代，他们却在遥远的山中孤寂地凋零。"
 main-class: ""
