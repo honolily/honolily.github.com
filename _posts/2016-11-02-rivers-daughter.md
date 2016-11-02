@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "河的女儿之一碗鸡蛋粥"
-image: "/assets/img/load/git.jpg"
+image: "/assets/img/2016/10/egg.jpg"
 color: "#7D669E"
 introduction: "奀珠的故事，成长的小确幸。"
 main-class: ""
