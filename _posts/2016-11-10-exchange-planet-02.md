@@ -3,7 +3,7 @@ layout: post
 title: "交换星球之罗彬"
 image: "/assets/img/load/git.jpg"
 color: "#7D669E"
-introduction: ""
+introduction: "罗彬住在悬崖边上一个美丽的山洞里。"
 main-class: ""
 categories: 
 tags: [交换星球]
