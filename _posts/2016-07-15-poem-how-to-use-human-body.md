@@ -20,7 +20,7 @@ date_gmt: '2016-07-15 08:44:00 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: [poem]
 comments: []
 ---
 [![yuanli info image](/assets/img/2016/07/u82807945_134d50a71ebg215.jpg "u82807945_134d50a71ebg215")](/assets/img/2016/07/u82807945_134d50a71ebg215.jpg)

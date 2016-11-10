@@ -20,7 +20,7 @@ date_gmt: '2016-07-18 08:44:29 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: 
+tags: [poem]
 - "诗词"
 comments: []
 ---

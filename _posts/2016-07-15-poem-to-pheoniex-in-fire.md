@@ -20,7 +20,7 @@ date_gmt: '2016-07-15 09:31:26 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: [poem]
 comments: []
 ---
 寂静的午夜，震天惊炸

@@ -20,7 +20,7 @@ date_gmt: '2016-07-15 09:34:01 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: [poem]
 comments: []
 ---
 挣扎着穿越着回到地球的时候

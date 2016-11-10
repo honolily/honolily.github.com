@@ -20,7 +20,7 @@ date_gmt: '2016-07-15 09:21:29 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: [poem]
 comments: []
 ---
 ![面朝大海](/assets/img/2016/07/面朝大海.jpg "面朝大海")

@@ -20,7 +20,7 @@ date_gmt: '2016-07-15 09:23:44 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: [poem]
 comments: []
 ---
 ![机器爱人](/assets/img/2016/07/机器爱人.jpg "机器爱人")

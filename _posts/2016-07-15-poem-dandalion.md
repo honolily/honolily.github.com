@@ -20,7 +20,7 @@ date_gmt: '2016-07-15 09:34:58 +0800'
 main-class: '诗词'
 categories:
 - "诗词"
-tags: []
+tags: [poem]
 comments: []
 ---
 一棵小小草
